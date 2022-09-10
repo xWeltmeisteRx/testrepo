@@ -1,0 +1,3 @@
+## Say hello then say goodbye
+print("Hello")
+print("Goodbye)
